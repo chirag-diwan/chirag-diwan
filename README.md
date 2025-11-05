@@ -1,5 +1,3 @@
-![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
 # Hey, I'm Chirag Diwan
 
 I build things that are practical, minimal, and scalable.  
@@ -32,4 +30,6 @@ Primarily focused on systems that involve collaboration, data synchronization, a
 
 ### Contact / Collaboration
 If you're building something worth discussing — reach out.
+- Linked Link :: https://www.linkedin.com/in/chirag-diwan-5a2439285/
+- Gmail :: chiragdiwanat2007@gmail.com
 
