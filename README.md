@@ -1,16 +1,35 @@
-## Hi there 👋
+![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-<!--
-**chirag-diwan/chirag-diwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Chirag Diwan
 
-Here are some ideas to get you started:
+I build things that are practical, minimal, and scalable.  
+Primarily focused on systems that involve collaboration, data synchronization, and clean UI interactions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I care about
+- Clean and predictable system design
+- Transparent team contribution dynamics
+- UI that *feels* smooth (animation without visual clutter)
+- Code that explains itself
+
+---
+
+### My Development Principles
+- *Clarity > Cleverness*
+- *Small, composable abstractions*
+- *Correctness before optimization*
+- *Direct communication — no sugarcoating*
+
+---
+
+### Outside Code
+- Gym & high protein diet (consistency matters more than motivation)
+- Chess (around 900, Queen’s Pawn enjoyer — play for structure, not tricks)
+- Volleyball occasionally
+
+---
+
+### Contact / Collaboration
+If you're building something worth discussing — reach out.
+
