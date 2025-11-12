@@ -1,35 +1,35 @@
-# Hey, I'm Chirag Diwan
+# 👋 Hi, I'm **Chirag Diwan**
 
-I build things that are practical, minimal, and scalable.  
-Primarily focused on systems that involve collaboration, data synchronization, and clean UI interactions.
-
----
-
-### What I care about
-- Clean and predictable system design
-- Transparent team contribution dynamics
-- UI that *feels* smooth (animation without visual clutter)
-- Code that explains itself
+I’m a passionate software developer who enjoys creating applications that **solve meaningful problems** and make life a little easier through technology.  
+Building things that work seamlessly across platforms and experimenting with new ideas keeps me motivated and curious.
 
 ---
 
-### My Development Principles
-- *Clarity > Cleverness*
-- *Small, composable abstractions*
-- *Correctness before optimization*
-- *Direct communication — no sugarcoating*
+## 🧠 **Tech Stack**
+
+**Languages:** C++, JavaScript, TypeScript, Python  
+**Frameworks & Tools:** React, React Native, Electron  
+**Areas of Interest:** Cross-platform development, automation, and creative problem-solving
 
 ---
 
-### Outside Code
-- Gym & high protein diet (consistency matters more than motivation)
-- Chess (around 900, Queen’s Pawn enjoyer — play for structure, not tricks)
-- Volleyball occasionally
+## 🚀 **Projects I’ve Built**
+
+- **SortMe** – A smart project folder sorter that organizes your codebase and even updates hardcoded paths automatically.  
+- **OffLee** – An **offline LeetCode-like platform** that helps you practice coding challenges in a realistic interview environment.  
+- **ImtegrateMe** – A fully connected ecosystem inspired by Apple’s continuity features — but designed for **Windows, Linux, and Android**.  
+- **myHtml** – A custom language that compiles into **HTML and JavaScript**, built for next-level UI and logic design.
 
 ---
 
-### Contact / Collaboration
-If you're building something worth discussing — reach out.
-- Linked Link :: https://www.linkedin.com/in/chirag-diwan-5a2439285/
-- Gmail :: chiragdiwanat2007@gmail.com
+## 🎯 **A Bit About Me**
 
+Outside of coding, I love exploring how things work and pushing my limits — whether it’s through:  
+♟️ Playing **chess** to sharpen my mind  
+💪 Practicing **calisthenics** to build discipline  
+📚 Or just **learning something new** every day
+
+---
+
+💡 *I’m always open to new ideas, collaborations, or just a good conversation about tech and innovation.*  
+Feel free to connect or check out some of my projects below!  
