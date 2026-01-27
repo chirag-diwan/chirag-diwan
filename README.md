@@ -10,7 +10,7 @@ Based in Bhopal, India.
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[RemGit] (https://github.com/chirag-diwan/RemGit)** | Github.com but inside your terminal so you don't have to change context in your flow
+| **[RemGit](https://github.com/chirag-diwan/RemGit)** | Github.com but inside your terminal so you don't have to change context in your flow | Go |
 | **[FSwitch.nvim](https://github.com/chirag-diwan/FSwitch.nvim)** | High-performance, lightweight buffer manager for Neovim. | Lua |
 | **[SortMe](https://github.com/chirag-diwan/SortMe)** | Automated project organizer that restructures directories and updates hardcoded paths. | Python |
 | **[OffLee](https://github.com/chirag-diwan/OffLee)** | Fully offline coding interview practice platform mimicking the LeetCode environment. | TypeScript, React |
