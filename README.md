@@ -1,35 +1,36 @@
-# 👋 Hi, I'm **Chirag Diwan**
+# Chirag Diwan
 
-I’m a passionate software developer who enjoys creating applications that **solve meaningful problems** and make life a little easier through technology.  
-Building things that work seamlessly across platforms and experimenting with new ideas keeps me motivated and curious.
-
----
-
-## 🧠 **Tech Stack**
-
-**Languages:** C++, JavaScript, TypeScript, Python  
-**Frameworks & Tools:** React, React Native, Electron  
-**Areas of Interest:** Cross-platform development, automation, and creative problem-solving
+**Computer Science Student & Software Developer**
+Building cross-platform ecosystems, developer tools, and automation utilities.
+Based in Bhopal, India.
 
 ---
 
-## 🚀 **Projects I’ve Built**
+### Selected Projects
 
-- **SortMe** – A smart project folder sorter that organizes your codebase and even updates hardcoded paths automatically.  
-- **OffLee** – An **offline LeetCode-like platform** that helps you practice coding challenges in a realistic interview environment.  
-- **ImtegrateMe** – A fully connected ecosystem inspired by Apple’s continuity features — but designed for **Windows, Linux, and Android**.  
-- **myHtml** – A custom language that compiles into **HTML and JavaScript**, built for next-level UI and logic design.
-
----
-
-## 🎯 **A Bit About Me**
-
-Outside of coding, I love exploring how things work and pushing my limits — whether it’s through:  
-♟️ Playing **chess** to sharpen my mind  
-💪 Practicing **calisthenics** to build discipline  
-📚 Or just **learning something new** every day
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[RemGit] (https://github.com/chirag-diwan/RemGit)** | Github.com but inside your terminal so you don't have to change context in your flow
+| **[FSwitch.nvim](https://github.com/chirag-diwan/FSwitch.nvim)** | High-performance, lightweight buffer manager for Neovim. | Lua |
+| **[SortMe](https://github.com/chirag-diwan/SortMe)** | Automated project organizer that restructures directories and updates hardcoded paths. | Python |
+| **[OffLee](https://github.com/chirag-diwan/OffLee)** | Fully offline coding interview practice platform mimicking the LeetCode environment. | TypeScript, React |
+| **[IntegrateMe](https://github.com/chirag-diwan/IntegrateMe)** | A continuity ecosystem connecting Windows, Linux, and Android for seamless workflows. | C++, Cross-platform |
 
 ---
 
-💡 *I’m always open to new ideas, collaborations, or just a good conversation about tech and innovation.*  
-Feel free to connect or check out some of my projects below!  
+### Technical Stack
+
+* **Languages:** C++, Go, TypeScript, JavaScript, Python, Lua
+* **Frontend:** React, Next.js, React Native
+* **Systems:** Linux (Hyprland/Sway), Neovim, Electron
+
+---
+
+### Commits Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chirag-diwan&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+---
+
+[Website](https://chirag-diwan.github.io/Portfolio/) • [LinkedIn](https://www.linkedin.com/in/chirag-diwan-5a2439285/)
