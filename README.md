@@ -1,8 +1,7 @@
 # Chirag Diwan
 
-**Computer Science Student & Software Developer**
-Building cross-platform ecosystems, developer tools, and automation utilities.
-Based in Bhopal, India.
+**Software Engineer**
+Building high-performance systems, inference engines, and scalable web infrastructure.
 
 ---
 
@@ -10,26 +9,27 @@ Based in Bhopal, India.
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[RemGit](https://github.com/chirag-diwan/RemGit)** | Github.com but inside your terminal so you don't have to change context in your flow | Go |
-| **[FSwitch.nvim](https://github.com/chirag-diwan/FSwitch.nvim)** | High-performance, lightweight buffer manager for Neovim. | Lua |
-| **[SortMe](https://github.com/chirag-diwan/SortMe)** | Automated project organizer that restructures directories and updates hardcoded paths. | Python |
-| **[OffLee](https://github.com/chirag-diwan/OffLee)** | Fully offline coding interview practice platform mimicking the LeetCode environment. | TypeScript, React |
-| **[IntegrateMe](https://github.com/chirag-diwan/IntegrateMe)** | A continuity ecosystem connecting Windows, Linux, and Android for seamless workflows. | C++, Cross-platform |
+| **[RemGit](https://github.com/chirag-diwan/RemGit)** | Terminal-native Git workflow orchestration designed for zero-latency context switching. | Go |
+| **[Helix](https://github.com/chirag-diwan/Helix)** | Custom C++ package manager engineered to resolve dependency bottlenecks and optimize build system concurrency. | C++ |
+| **[Odin](https://github.com/chirag-diwan/Odin)** | LLM inference engine implementing optimized tensor operations, memory pooling, and hardware acceleration (SIMD/AVX2) for quantized model execution. | C++ |
+| **[Engine](https://github.com/chirag-diwan/Engine)** | C++ game architecture leveraging raylib for rendering and a custom Lua bridging layer for high-performance scripting and entity management. | C++, Lua |
+| **[FSwitch.nvim](https://github.com/chirag-diwan/FSwitch.nvim)** | Lightweight, low-latency buffer manager for Neovim. | Lua |
+| **[AayushMitra](aayushmitra.onrender.com)** | AI-driven EMR layer consolidating fragmented healthcare data into a centralized identity system for seamless cross-facility context transfer. | TypeScript, React |
 
 ---
 
 ### Technical Stack
 
-* **Languages:** C++, Go, TypeScript, JavaScript, Python, Lua
+* **Languages:** C++, Go, TypeScript, JavaScript, Python, Lua, Rust
+* **Systems & Tooling:** Linux (Arch/Hyprland/Sway), Neovim, GCC/Binutils
 * **Frontend:** React, Next.js, React Native
-* **Systems:** Linux (Hyprland/Sway), Neovim, Electron
+* **Backend:** C++, Go, Node.js
 
 ---
 
-### Commits Graph
+### Activity
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chirag-diwan&bg_color=0d1117&color=5bcdec&line=5bcdec&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 ---
 
