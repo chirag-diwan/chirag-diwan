@@ -14,7 +14,7 @@ Building high-performance systems, inference engines, and scalable web infrastru
 | **[Odin](https://github.com/chirag-diwan/Odin)** | LLM inference engine implementing optimized tensor operations, memory pooling, and hardware acceleration (SIMD/AVX2) for quantized model execution. | C++ |
 | **[Engine](https://github.com/chirag-diwan/Engine)** | C++ game architecture leveraging raylib for rendering and a custom Lua bridging layer for high-performance scripting and entity management. | C++, Lua |
 | **[FSwitch.nvim](https://github.com/chirag-diwan/FSwitch.nvim)** | Lightweight, low-latency buffer manager for Neovim. | Lua |
-| **[AayushMitra](aayushmitra.onrender.com)** | AI-driven EMR layer consolidating fragmented healthcare data into a centralized identity system for seamless cross-facility context transfer. | TypeScript, React |
+| **[AayushMitra](https://aayushmitra.onrender.com)** | AI-driven EMR layer consolidating fragmented healthcare data into a centralized identity system for seamless cross-facility context transfer. | TypeScript, React |
 
 ---
 
