@@ -9,7 +9,6 @@ Building high-performance systems, inference engines, and scalable web infrastru
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-
 | **[Odin](https://github.com/chirag-diwan/Odin)** | LLM inference engine for edge hardwares. | C++ |
 | **[NeuralCpp](https://github.com/chirag-diwan/neuralCpp)** | Neural Network framework written in pure C++ from scratch. | C++ |
 | **[RemGit](https://github.com/chirag-diwan/RemGit)** | Terminal-native Git workflow orchestration designed for zero-latency context switching. | Go |
